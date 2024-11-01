@@ -17,7 +17,7 @@ a third-year Computer Engineering student at UiT – The Arctic University of No
 
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TetianaVerkhalantseva&show_icons=true&theme=radical)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TetianaVerkhalantseva&layout=compact&theme=radical)
